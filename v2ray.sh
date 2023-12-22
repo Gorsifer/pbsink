@@ -1803,9 +1803,7 @@ showLog() {
 menu() {
     clear
     echo "#############################################################"
-    echo -e "#                   ${RED}v2ray一键安装脚本${PLAIN}        #"
-    echo -e "# ${GREEN}作者${PLAIN}: 梯子博客                           #"
-    echo -e "# ${GREEN}网址${PLAIN}: https://tizi.blog                 #"
+    echo -e "#              ${RED}v2ray一键安装脚本${PLAIN}	       #"
     echo "#############################################################"
 
     echo -e "  ${GREEN}1.${PLAIN}   安装V2ray-VMESS"
