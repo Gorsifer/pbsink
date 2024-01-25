@@ -73,7 +73,7 @@ http://222.71.90.218:8888/newlive/live/hls/56/live.m3u8
 #EXTINF:-1 tvg-name="第一财经" tvg-logo="https://live.fanmingming.com/tv/上海第一财经.png" group-title="上海频道",第一财经
 http://nas.jdshipin.com:8801/bst.php?id=dycj
 http://222.71.90.218:8888/newlive/live/hls/57/live.m3u8
-#EXTINF:-1 tvg-name="上视外语 8M" tvg-logo="https://live.fanmingming.com/tv/上视外语.png" group-title="上海频道",上视外语
+#EXTINF:-1 tvg-name="上视外语 8M" tvg-logo="https://live.fanmingming.com/tv/上海外语.png" group-title="上海频道",上海外语
 http://nas.jdshipin.com:8801/bst.php?id=ics
 #EXTINF:-1 tvg-name="浦东电视台" tvg-logo="https://live.fanmingming.com/tv/浦东电视台.png" group-title="上海频道",浦东电视台
 http://nas.jdshipin.com:8801/bst.php?id=pudong
