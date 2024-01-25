@@ -68,6 +68,26 @@ http://222.71.90.218:8888/newlive/live/hls/56/live.m3u8
 #EXTINF:-1 tvg-name="第一财经" tvg-logo="https://live.fanmingming.com/tv/上海第一财经.png" group-title="上海频道",第一财经
 http://222.71.90.218:8888/newlive/live/hls/57/live.m3u8
 
+#EXTINF:-1 tvg-name="浦东电视台" tvg-logo="https://live.fanmingming.com/tv/浦东电视台.png" group-title="上海频道",浦东电视台
+http://nas.jdshipin.com:8801/bst.php?id=pudong
+#EXTINF:-1 tvg-name="上海第一财经 8M" tvg-logo="https://live.fanmingming.com/tv/上海第一财经.png" group-title="上海频道",上海第一财经 8M
+http://nas.jdshipin.com:8801/bst.php?id=dycj
+#EXTINF:-1 tvg-name="上视新闻 8M" tvg-logo="https://live.fanmingming.com/tv/上视新闻.png" group-title="上海频道",上视新闻 8M
+http://nas.jdshipin.com:8801/bst.php?id=shxwzh
+#EXTINF:-1 tvg-name="上海都市 8M" tvg-logo="https://live.fanmingming.com/tv/上海都市.png" group-title="上海频道",上海都市 8M
+http://nas.jdshipin.com:8801/bst.php?id=shds
+#EXTINF:-1 tvg-name="上海纪实 8M" tvg-logo="https://live.fanmingming.com/tv/上海纪实.png" group-title="上海频道",上海纪实 8M
+http://nas.jdshipin.com:8801/bst.php?id=jsrw
+#EXTINF:-1 tvg-name="五星体育 8M" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="上海频道",五星体育 8M
+http://nas.jdshipin.com:8801/bst.php?id=wxty
+#EXTINF:-1 tvg-name="上视外语 8M" tvg-logo="https://live.fanmingming.com/tv/上视外语.png" group-title="上海频道",上视外语 8M
+http://nas.jdshipin.com:8801/bst.php?id=ics
+#EXTINF:-1 tvg-name="七彩戏剧 8M" tvg-logo="https://live.fanmingming.com/tv/七彩戏剧.png" group-title="上海频道",七彩戏剧 8M
+http://nas.jdshipin.com:8801/bst.php?id=qcxj
+#EXTINF:-1 tvg-name="上海教育 8M" tvg-logo="https://live.fanmingming.com/tv/上海教育.png" group-title="上海频道",上海教育 8M
+http://nas.jdshipin.com:8801/bst.php?id=shjy
+
+
 
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰中文
 http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
