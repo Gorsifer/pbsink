@@ -3,7 +3,7 @@
 http://61.172.255.69:3333/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="纪实人文" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="上海频道",纪实人文
 https://tencent-stream.kksmg.com/live/jspd.m3u8?txSecret=db5e2a7ce9a81022dafcc0ca3e774dcf&txTime=65bb6637
-#EXTINF:-1 tvg-name="第一财经" tvg-logo="https://live.fanmingming.com/tv/第一财经.png" group-title="上海频道",第一财经
+#EXTINF:-1 tvg-name="第一财经" tvg-logo="https://live.fanmingming.com/tv/上海第一财经.png" group-title="上海频道",第一财经
 https://ycallive.yicai.com/live/cbn_yld.m3u8?auth_key=1706780336-0-0-c8e7807d502c25ba458aec578a135bff
 #EXTINF:-1 tvg-name="新闻综合" tvg-logo="https://live.fanmingming.com/tv/上视新闻.png" group-title="上海频道",新闻综合
 https://volc-stream.kksmg.com/live/xwzh/index.m3u8?volcSecret=631b38486c26381576a0eebb6bb2f410&volcTime=1706780152
@@ -12,7 +12,7 @@ http://116.234.54.1:7777/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
 https://epg.pw/stream/8bcb65dddb82fc01cc617f6c5e2aa3f7d98fba152b5423fe17b4caa9bbed79b2.m3u8
 #EXTINF:-1 tvg-name="东方影视" tvg-logo="https://live.fanmingming.com/tv/东方影视.png" group-title="上海频道",东方影视
 http://180.174.54.152:8801/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="第一财经" tvg-logo="https://live.fanmingming.com/tv/第一财经.png" group-title="上海频道",第一财经
+#EXTINF:-1 tvg-name="第一财经" tvg-logo="https://live.fanmingming.com/tv/上海第一财经.png" group-title="上海频道",第一财经
 http://180.174.54.152:8801/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 
 #EXTINF:-1 tvg-name="CCTV1-综合" tvg-logo="https://live.fanmingming.com/tv/CCTV1-综合.png" group-title="央视频道",CCTV1-综合
