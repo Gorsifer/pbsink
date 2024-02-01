@@ -61,8 +61,7 @@ https://tencent-stream.kksmg.com/live/jspd.m3u8?txSecret=db5e2a7ce9a81022dafcc0c
 #EXTINF:-1 tvg-name="新闻综合" tvg-logo="https://live.fanmingming.com/tv/上视新闻.png" group-title="上海频道",新闻综合
 https://volc-stream.kksmg.com/live/xwzh/index.m3u8?volcSecret=631b38486c26381576a0eebb6bb2f410&volcTime=1706780152
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="上海频道",五星体育
-http://180.174.54.152:8801/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-https://epg.pw/stream/8bcb65dddb82fc01cc617f6c5e2aa3f7d98fba152b5423fe17b4caa9bbed79b2.m3u8
+https://epg.pw/stream/031acdbb137226f0c022242be1f31a039d40acf487f2c4b6fa6b40d6eb55f3f4.m3u8
 #EXTINF:-1 tvg-name="第一财经" tvg-logo="https://live.fanmingming.com/tv/上海第一财经.png" group-title="上海频道",第一财经
 https://tencent-stream.kksmg.com/live/dycj.m3u8?txSecret=f9a371b292c4df05c8a7e3336ada1c0d&txTime=65bb6613
 #EXTINF:-1 tvg-name="东方财经" tvg-logo="https://live.fanmingming.com/tv/东方财经.png" group-title="上海频道",东方财经
