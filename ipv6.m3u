@@ -45,17 +45,17 @@ https://itv.lat/tv/live.php?&line=1&id=cctv164k
 https://itv.lat/tv/live.php?&line=1&id=cgtn
 
 #上海频道
-#EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://live.fanmingming.com/tv/上海新闻综合.png" group-title="上海频道",上海新闻综合
+#EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://live.fanmingming.com/tv/上视新闻.png" group-title="上海频道",上海新闻综合
 https://itv.lat/tv/live.php?&line=1&id=shxwzh
 #EXTINF:-1 tvg-name="上海都市" tvg-logo="https://live.fanmingming.com/tv/上海都市.png" group-title="上海频道",上海都市
 https://itv.lat/tv/live.php?&line=1&id=shds
-#EXTINF:-1 tvg-name="上海ICS外语" tvg-logo="https://live.fanmingming.com/tv/上海ICS外语.png" group-title="上海频道",上海ICS外语
+#EXTINF:-1 tvg-name="上海ICS外语" tvg-logo="https://live.fanmingming.com/tv/上海外语.png" group-title="上海频道",上海ICS外语
 https://itv.lat/tv/live.php?&line=1&id=shics
 #EXTINF:-1 tvg-name="东方影视" tvg-logo="https://live.fanmingming.com/tv/东方影视.png" group-title="上海频道",东方影视
 https://itv.lat/tv/live.php?&line=1&id=dfys
 #EXTINF:-1 tvg-name="七彩戏剧" tvg-logo="https://live.fanmingming.com/tv/七彩戏剧.png" group-title="上海频道",七彩戏剧
 https://itv.lat/tv/live.php?&line=1&id=qcxj
-#EXTINF:-1 tvg-name="第一财经" tvg-logo="https://live.fanmingming.com/tv/第一财经.png" group-title="上海频道",第一财经
+#EXTINF:-1 tvg-name="第一财经" tvg-logo="https://live.fanmingming.com/tv/上海第一财经.png" group-title="上海频道",第一财经
 https://itv.lat/tv/live.php?&line=1&id=dycj
 #EXTINF:-1 tvg-name="法治天地" tvg-logo="https://live.fanmingming.com/tv/法治天地.png" group-title="上海频道",法治天地
 https://itv.lat/tv/live.php?&line=1&id=fztd
