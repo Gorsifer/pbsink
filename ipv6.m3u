@@ -253,7 +253,7 @@ https://itv.lat/tv/live.php?&line=1&id=dfgw
 https://itv.lat/tv/live.php?&line=1&id=pdtv
 #EXTINF:-1 tvg-name="福建综合" tvg-logo="https://live.fanmingming.com/tv/福建综合.png" group-title="地方频道",福建综合
 https://itv.lat/tv/live.php?&line=1&id=fjzh
-#EXTINF:-1 tvg-name="福建新闻" tvg-logo="https://live.fanmingming.com/tv/福建新闻.png" group-title="地方频道ʰ",福建新闻
+#EXTINF:-1 tvg-name="福建新闻" tvg-logo="https://live.fanmingming.com/tv/福建新闻.png" group-title="地方频道",福建新闻
 https://itv.lat/tv/live.php?&line=1&id=fjxw
 #EXTINF:-1 tvg-name="福建电视剧" tvg-logo="https://live.fanmingming.com/tv/福建电视剧.png" group-title="地方频道",福建电视剧
 https://itv.lat/tv/live.php?&line=1&id=fjdsj
