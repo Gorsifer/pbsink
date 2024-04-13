@@ -63,6 +63,80 @@ https://tv.cry33.com/ys4k.php?id=8k
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
 #EXTINF:-1 tvg-name="上海新闻" tvg-logo="https://live.fanmingming.com/tv/上视新闻.png" group-title="上海频道",上海新闻
 https://cdn2.jdshipin.com/api/bst2.php?id=xwzhhd8m/8000000
+
+#EXTINF:-1 tvg-name="东方影视" tvg-logo="https://live.fanmingming.com/tv/东方影视.png" group-title="上海频道",东方影视
+http://116.237.248.80:9901/tsfile/live/1013_1.m3u8
+#EXTINF:-1 tvg-name="东方购物" tvg-logo="https://live.fanmingming.com/tv/东方购物.png" group-title="上海频道",东方购物
+http://ocj2.kksmg.com/ocj1/ocj1.m3u8
+#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="上海频道",五星体育
+http://116.237.248.80:9901/tsfile/live/1010_1.m3u8
+#EXTINF:-1 tvg-name="上海教育" tvg-logo="https://live.fanmingming.com/tv/上海教育.png" group-title="上海频道",上海教育
+https://epg.pw/stream/27173b47604f232c2534ed21dce8fc94c6f8496e753eb744497e323456da7a83.ctv
+#EXTINF:-1 tvg-name="纪实人文" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="上海频道",纪实人文
+http://gzly.hkychina.com:6001/rtp/239.252.219.227:5140?Cf=cfss.cc
+#EXTINF:-1 tvg-name="纪实人文" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="上海频道",纪实人文
+http://60.220.167.77:8085/rtp/226.0.2.193:9456
+#EXTINF:-1 tvg-name="纪实人文" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="上海频道",纪实人文
+http://61.240.37.114:8085/rtp/226.0.2.193:9456
+#EXTINF:-1 tvg-name="纪实人文" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="上海频道",纪实人文
+http://60.220.167.77:8083/rtp/226.0.2.193:9456
+#EXTINF:-1 tvg-name="纪实人文" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="上海频道",纪实人文
+https://epg.pw/stream/e63e1c0d99ae7386578eca9359bf74a28c69728421a20846c504548d11da4ada.ctv
+#EXTINF:-1 tvg-name="纪实人文" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="上海频道",纪实人文
+http://116.237.248.80:9901/tsfile/live/1005_1.m3u8
+#EXTINF:-1 tvg-name="纪实人文" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="上海频道",纪实人文
+http://125.89.163.44:8888/udp/239.77.0.147:5146
+#EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://live.fanmingming.com/tv/都市剧场.png" group-title="上海频道",都市剧场
+http://116.237.248.80:9901/tsfile/live/1004_1.m3u8
+#EXTINF:-1 tvg-name="东方影视" tvg-logo="https://live.fanmingming.com/tv/东方影视.png" group-title="上海频道",东方影视
+https://epg.pw/stream/ed25221cab8a3a38f8d954ec4839ba33300c9329c00bf8b6283c81f254618f09.ctv
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="上海频道",东方卫视
+http://183.147.168.61:8888/rtp/233.50.201.125:5140
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="上海频道",东方卫视
+http://58.210.23.42:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="上海频道",东方卫视
+http://125.210.152.21:9121/live/hzgq-dftvgq-h264.m3u8
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="上海频道",东方卫视
+http://219.140.133.164:8887/rtp/239.69.1.173:10674
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="上海频道",东方卫视
+http://219.140.133.164:8887/rtp/239.254.96.142:8926
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="上海频道",东方卫视
+http://gzly.hkychina.com:6001/rtp/239.252.219.229:5140?Cf=cfss.cc
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="上海频道",东方卫视
+http://27.11.59.53:8005/udp/225.0.4.80:7980
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="上海频道",东方卫视
+http://60.220.167.77:8085/rtp/226.0.2.175:9312
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="上海频道",东方卫视
+http://61.240.37.114:8085/rtp/226.0.2.175:9312
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="上海频道",东方卫视
+http://60.220.167.77:8083/rtp/226.0.2.175:9312
+#EXTINF:-1 tvg-name="东方财经" tvg-logo="https://live.fanmingming.com/tv/东方财经.png" group-title="上海频道",东方财经
+http://gzly.hkychina.com:6001/rtp/239.252.219.57:5140?Cf=cfss.cc
+#EXTINF:-1 tvg-name="东方财经" tvg-logo="https://live.fanmingming.com/tv/东方财经.png" group-title="上海频道",东方财经
+http://60.220.167.77:8085/rtp/226.0.2.76:8520
+#EXTINF:-1 tvg-name="东方财经" tvg-logo="https://live.fanmingming.com/tv/东方财经.png" group-title="上海频道",东方财经
+http://61.240.37.114:8085/rtp/226.0.2.76:8520
+#EXTINF:-1 tvg-name="东方财经" tvg-logo="https://live.fanmingming.com/tv/东方财经.png" group-title="上海频道",东方财经
+http://60.220.167.77:8083/rtp/226.0.2.76:8520
+#EXTINF:-1 tvg-name="东方财经" tvg-logo="https://live.fanmingming.com/tv/东方财经.png" group-title="上海频道",东方财经
+http://59.55.34.159:20000/hls/30/index.m3u8
+#EXTINF:-1 tvg-name="东方财经" tvg-logo="https://live.fanmingming.com/tv/东方财经.png" group-title="上海频道",东方财经
+https://epg.pw/stream/c43fa000db9ac14b27b6b87db4e7fbbef1b9dbc8460ad7ae8c51e1e56351b931.ctv
+#EXTINF:-1 tvg-name="崇明电视台" tvg-logo="https://live.fanmingming.com/tv/崇明电视台.png" group-title="上海频道",崇明电视台
+https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8?zshangd
+#EXTINF:-1 tvg-name="法治天地" tvg-logo="https://live.fanmingming.com/tv/法治天地.png" group-title="上海频道",法治天地
+http://59.55.34.159:20000/hls/37/index.m3u8
+#EXTINF:-1 tvg-name="法治天地" tvg-logo="https://live.fanmingming.com/tv/法治天地.png" group-title="上海频道",法治天地
+http://60.220.167.77:8085/rtp/226.0.2.83:8576
+#EXTINF:-1 tvg-name="法治天地" tvg-logo="https://live.fanmingming.com/tv/法治天地.png" group-title="上海频道",法治天地
+http://61.240.37.114:8085/rtp/226.0.2.83:8576
+#EXTINF:-1 tvg-name="法治天地" tvg-logo="https://live.fanmingming.com/tv/法治天地.png" group-title="上海频道",法治天地
+http://60.220.167.77:8083/rtp/226.0.2.83:8576
+#EXTINF:-1 tvg-name="法治天地" tvg-logo="https://live.fanmingming.com/tv/法治天地.png" group-title="上海频道",法治天地
+https://epg.pw/stream/df34e8c55b5076e5f53685565f812b2098b195303794f9ee8fe81d8b576c0738.ctv
+
+
+
 #EXTINF:-1 tvg-name="上海都市" tvg-logo="https://live.fanmingming.com/tv/上海都市.png" group-title="上海频道",上海都市
 https://cdn2.jdshipin.com/api/bst2.php?id=dshd8m/8000000
 #EXTINF:-1 tvg-name="上海纪实" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="上海频道",上海纪实
