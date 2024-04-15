@@ -284,67 +284,7 @@ http://live.cgtn.com/1000/prog_index.m3u8
 http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000528/index.m3u8?IAS
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 
-#卫视备用
-#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="卫视频道【二】",安徽卫视
-http://gzcbn.ch-cdn.gitv.tv/gitv_escape/G_ANHUI-HD-265-8M/G_ANHUI-HD-265-8M.m3u8
-#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视频道【二】",湖南卫视
-https://cdn2.jdshipin.com/api/bst2.php?id=hunanwshd8m/8000000
-#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="卫视频道【二】",安徽卫视
-https://cdn2.jdshipin.com/api/bst2.php?id=ahwshd8m/8000000
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="卫视频道【二】",浙江卫视
-https://cdn2.jdshipin.com/api/bst2.php?id=zjwshd8m/8000000
-#EXTINF:-1 tvg-name="CC高清" tvg-logo="https://live.fanmingming.com/tv/CC高清.png" group-title="卫视频道【二】",CC高清
-https://pan.shangui.cc/f/L4vAi3/202403091715.mp4
-#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视频道【二】",江苏卫视
-https://cdn2.jdshipin.com/api/bst2.php?id=jswshd8m/8000000
-#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png" group-title="卫视频道【二】",广西卫视
-https://cdn2.jdshipin.com/api/bst2.php?id=gxwshd8m/8000000
-#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="卫视频道【二】",四川卫视
-https://cdn2.jdshipin.com/api/bst2.php?id=scwshd/8000000
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="卫视频道【二】",东方卫视
-https://cdn2.jdshipin.com/api/bst2.php?id=dfwshd8m/8000000
-#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视频道【二】",北京卫视
-https://cdn2.jdshipin.com/api/bst2.php?id=bjwshd8m/8000000
-#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="卫视频道【二】",天津卫视
-https://cdn2.jdshipin.com/api/bst2.php?id=tjwshd8m/8000000
-#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="卫视频道【二】",辽宁卫视
-https://cdn2.jdshipin.com/api/bst2.php?id=lnwshd8m/8000000
-#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="卫视频道【二】",广东卫视
-https://cdn2.jdshipin.com/api/bst2.php?id=gdwshd8m/8000000
-#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="卫视频道【二】",深圳卫视
-https://cdn2.jdshipin.com/api/bst2.php?id=szwshd8m/8000000
-#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="卫视频道【二】",湖北卫视
-https://cdn2.jdshipin.com/api/bst2.php?id=hubeiws8m/8000000
-#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png" group-title="卫视频道【二】",吉林卫视
-https://cdn2.jdshipin.com/api/bst2.php?id=jlwshd8m/8000000
-#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="卫视频道【二】",山东卫视
-https://cdn2.jdshipin.com/api/bst2.php?id=sdws8m/8000000
-#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://live.fanmingming.com/tv/江西卫视.png" group-title="卫视频道【二】",江西卫视
-https://cdn2.jdshipin.com/api/bst2.php?id=jxws8m/8000000
-#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" group-title="卫视频道【二】",河南卫视
-https://cdn2.jdshipin.com/api/bst2.php?id=hnwshd8m/8000000
-#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" group-title="卫视频道【二】",河北卫视
-https://cdn2.jdshipin.com/api/bst2.php?id=hbwshd8m/8000000
-#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://live.fanmingming.com/tv/甘肃卫视.png" group-title="卫视频道【二】",甘肃卫视
-https://cdn2.jdshipin.com/api/bst2.php?id=gswshd8m/8000000
-#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="卫视频道【二】",重庆卫视
-https://cdn2.jdshipin.com/api/bst2.php?id=cqws8m/8000000
-#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="卫视频道【二】",东南卫视
-https://cdn2.jdshipin.com/api/bst2.php?id=dnwshd8m/8000000
-#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://live.fanmingming.com/tv/云南卫视.png" group-title="卫视频道【二】",云南卫视
-https://cdn2.jdshipin.com/api/bst2.php?id=ynwshd8m/8000000
-#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png" group-title="卫视频道【二】",贵州卫视
-https://cdn2.jdshipin.com/api/bst2.php?id=gzwshd8m/8000000
-#EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://live.fanmingming.com/tv/三沙卫视.png" group-title="卫视频道【二】",三沙卫视
-https://cdn2.jdshipin.com/api/bst2.php?id=sswshd8m/8000000
-#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png" group-title="卫视频道【二】",海南卫视
-https://cdn2.jdshipin.com/api/bst2.php?id=hainanwshd8m/8000000
-#EXTINF:-1 tvg-name="海峡卫视" tvg-logo="https://live.fanmingming.com/tv/海峡卫视.png" group-title="卫视频道【二】",海峡卫视
-https://cdn2.jdshipin.com/api/bst2.php?id=hxwshd4m/4000000
-#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="卫视频道【二】",黑龙江卫视
-https://cdn2.jdshipin.com/api/bst2.php?id=hljwshd8m/8000000
-#EXTINF:-1 tvg-name="欢笑剧场4K" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场4K.png" group-title="卫视频道【二】",欢笑剧场4K
-https://cdn2.jdshipin.com/api/bst2.php?id=hxjc4k/15000000
+
 
 #数字频道
 #EXTINF:-1 tvg-id="爱上4K" tvg-name="爱上4K"  tvg-logo="https://live.fanmingming.com/tv/爱上4K.png" group-title="数字频道",爱上4K
