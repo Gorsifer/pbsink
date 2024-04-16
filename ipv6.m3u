@@ -59,11 +59,10 @@ http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 https://tv.cry33.com/ys4k.php?id=8k
 
 #上海频道
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="卫视频道",东方卫视
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="上海频道",东方卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
 #EXTINF:-1 tvg-name="上海新闻" tvg-logo="https://live.fanmingming.com/tv/上视新闻.png" group-title="上海频道",上海新闻
 https://cdn2.jdshipin.com/api/bst2.php?id=xwzhhd8m/8000000
-
 #EXTINF:-1 tvg-name="东方影视" tvg-logo="https://live.fanmingming.com/tv/东方影视.png" group-title="上海频道",东方影视
 http://116.237.248.80:9901/tsfile/live/1013_1.m3u8
 #EXTINF:-1 tvg-name="东方购物" tvg-logo="https://live.fanmingming.com/tv/东方购物.png" group-title="上海频道",东方购物
