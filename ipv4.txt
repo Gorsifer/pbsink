@@ -1,11 +1,3 @@
-联系方式,#genre#
-QQ群,http://iptv.yjxfz.com/IPTV_QQ_GROUP.mp4
-418118493,http://iptv.yjxfz.com/IPTV_QQ_GROUP.mp4
-当前源时间,http://iptv.yjxfz.com/IPTV_QQ_GROUP.mp4
-04-20 00:12,http://iptv.yjxfz.com/IPTV_QQ_GROUP.mp4
-最新源时间,http://iptv.yjxfz.com/IPTV_QQ_GROUP.mp4
-04-20 00:04,http://iptv.yjxfz.com/IPTV_QQ_GROUP.mp4
-APP重启更新源,http://iptv.yjxfz.com/IPTV_QQ_GROUP.mp4
 央视IPV4,#genre#
 CCTV-1 综合,http://49.87.154.246:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-1 综合,http://114.105.153.224:8888/udp/238.1.78.166:7200
