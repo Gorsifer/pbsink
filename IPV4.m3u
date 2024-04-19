@@ -6,7 +6,7 @@
 http://rt4.orangevip.top:8999/rtp/232.0.0.98:1234
 #EXTINF:-1 tvg-name="上海ICS" tvg-logo="https://live.fanmingming.com/tv/上海外语.png" group-title="上海频道",上海ICS
 http://api.52tb.xyz/info?id=373&token=20230331fbulna
-#EXTINF:-1 tvg-name="|东方购物" tvg-logo="https://live.fanmingming.com/tv/|东方购物.png" group-title="上海频道",|东方购物
+#EXTINF:-1 tvg-name="|东方购物" tvg-logo="https://live.fanmingming.com/tv/东方购物.png" group-title="上海频道",|东方购物
 https://epg.pw/stream/45ee99a8a0badc17c2a57378b6b4f076167eb740985eec8349043ca56f29927d.m3u8
 #EXTINF:-1 tvg-name="七彩戏剧" tvg-logo="https://live.fanmingming.com/tv/七彩戏剧.png" group-title="上海频道",七彩戏剧
 http://php.jdshipin.com:8880/bst.php?id=qcxj
@@ -16,9 +16,9 @@ http://rt4.orangevip.top:8999/rtp/232.0.0.122:1234
 http://116.237.248.80:9901/tsfile/live/1013_1.m3u8
 #EXTINF:-1 tvg-name="东方财经" tvg-logo="https://live.fanmingming.com/tv/东方财经.png" group-title="上海频道",东方财经
 http://php.jdshipin.com:8880/bst.php?id=dfcj
-#EXTINF:-1 tvg-name="乐游频道" tvg-logo="https://live.fanmingming.com/tv/乐游频道.png" group-title="上海频道",乐游频道
+#EXTINF:-1 tvg-name="乐游频道" tvg-logo="https://live.fanmingming.com/tv/乐游.png" group-title="上海频道",乐游频道
 http://114.105.153.224:8888/udp/238.1.78.151:7080
-#EXTINF:-1 tvg-name="乐游频道" tvg-logo="https://live.fanmingming.com/tv/乐游频道.png" group-title="上海频道",乐游频道
+#EXTINF:-1 tvg-name="乐游频道" tvg-logo="https://live.fanmingming.com/tv/乐游.png" group-title="上海频道",乐游频道
 http://php.jdshipin.com:8880/bst.php?id=leyou
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="上海频道",五星体育
 http://116.237.248.80:9901/tsfile/live/1010_1.m3u8
@@ -80,7 +80,7 @@ http://www.liruixiang.cc:9000/udp/239.3.1.136:8032
 http://www.yao87.com:4022/udp/239.76.253.186:9000
 #EXTINF:-1 tvg-name="东方影视" tvg-logo="https://live.fanmingming.com/tv/东方影视.png" group-title="上海频道",东方影视
 http://222.71.11.180:4022/udp/239.45.3.237:5140
-#EXTINF:-1 tvg-name="东方财浦东" tvg-logo="https://oss.pbs.ink/pbs/tvico/浦东电视台.png" group-title="上海频道",东方财浦东
+#EXTINF:-1 tvg-name="东方财浦东" tvg-logo="https://oss.pbs.ink/pbs/tvico/浦东财经.png" group-title="上海频道",东方财浦东
 http://pve.czjimi.com:8808/rtp/238.1.78.73:6456
 #EXTINF:-1 tvg-name="东方财经" tvg-logo="https://live.fanmingming.com/tv/东方财经.png" group-title="上海频道",东方财经
 http://pve.czjimi.com:8808/rtp/238.1.78.73:6456
