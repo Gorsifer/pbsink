@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="	https://epg.112114.xyz/pp.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/cc.xml,http://epg.51zmt.top:8000/difang.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
 
 
